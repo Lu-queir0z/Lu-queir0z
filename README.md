@@ -16,6 +16,6 @@ Bem Vindo !!!🙋‍♂️
    Minhas Estatisticas:
 
    [![cristianocorreamoraes GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianocorreamoraes)](https://github.com/cristianocorreamoraes/github-readme-stats)
-   [![lu_queir0z GitHub stats](https://github-readme-stats.vercel.app/api?username=lu_queir0z)](https://github.com/lu_queir0z/github-readme-stats)
+   [![Lu_queir0z GitHub stats](https://github-readme-stats.vercel.app/api?username=Lu_queir0z)](https://github.com/Lu_queir0z/github-readme-stats)
 
    <hr>
