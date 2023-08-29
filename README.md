@@ -10,7 +10,8 @@ Bem Vindo !!!🙋‍♂️
  🌐 Minhas redes : 
   
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Lu-queir0z)](https://github.com/Lu-queir0z)
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristianocorreademoraes/)](https://www.linkedin.com/in/cristianocorreademoraes/)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristianocorreademoraes/)](https://www.linkedin.com/in/cristianocorreademoraes/)
  
    <hr>
    Minhas Estatisticas:
