@@ -1,11 +1,11 @@
     <hr>
 Bem Vindo !!!🙋‍♂️
 
-     Eu sou Luis e estudo no Senai <br>
-     💻Aprendendo:<br>
-     HTML <br>
-     CSS <br>
-     JS SCRIPT <br>
+     Eu sou Luis e estudo no Senai 
+     💻Aprendendo:
+     HTML 
+     CSS 
+     JS SCRIPT 
      
    <hr>
  🌐 Minhas redes : 
