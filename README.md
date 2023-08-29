@@ -1,4 +1,4 @@
-    <hr>
+
 Bem Vindo !!!🙋‍♂️
 
      Eu sou Luis e estudo no Senai 
