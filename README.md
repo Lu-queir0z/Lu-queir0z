@@ -18,5 +18,6 @@ Bem Vindo !!!🙋‍♂️
    [![cristianocorreamoraes GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianocorreamoraes)](https://github.com/cristianocorreamoraes/github-readme-stats)
    
    <!--[![Lu_queir0z GitHub stats](https://github-readme-stats.vercel.app/api?username=Lu_queir0z)](https://github.com/Lu_queir0z/github-readme-stats)-->
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lu-queir0z&layout=compact)](https://github.com/Lu-queir0z/github-readme-stats)
 
    <hr>
