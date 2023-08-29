@@ -14,5 +14,5 @@ Bem Vindo !!!🙋‍♂️
  
    <hr>
    Minhas Estatisticas:
-       [![Lu-queir0z GitHub stats](https://github-readme-stats.vercel.app/api?username=Lu-quei0z)](https://github.com/Lu-queir0z/github-readme-stats)
+       [![Lu-queir0z GitHub stats](https://github-readme-stats.vercel.app/api?username=Lu-queir0z)](https://github.com/Lu-queir0z/github-readme-stats)
    <hr>
