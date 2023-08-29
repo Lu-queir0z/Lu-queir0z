@@ -1,8 +1,8 @@
 Bem Vindo !!!🙋‍♂️
 
 <hr>
-  Eu sou um aluno do Senai 
-  Estudo:
-  HTML 
-  CSS 
-  JS SCRIPT
+  Eu sou Luis e estudo no Senai <br>
+💻 Estudo:<br>
+   HTML <br>
+   CSS <br>
+   JS SCRIPT <br>
